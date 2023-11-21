@@ -1,6 +1,7 @@
 ### 👋 I'm [Andrew](https://www.linkedin.com/in/andrewmcalinden/)!
 ### 📕 I'm currently a student studying Computer Science and Mathematics in the Turing Scholars Honors Program at UT Austin
-### 💻 Feel free to contact me! andrew@mcalindens.net
+### 💻 This summer I'll be a Software Engineering Intern at Citadel Securities, and last summer I was at DraftKings
+### 💬 Feel free to contact me! andrew@mcalindens.net
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewmcalinden&count_private=true&show_icons=true&theme=tokyonight)
