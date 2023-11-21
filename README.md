@@ -2,12 +2,13 @@
 ### 📕 I'm currently a student studying Computer Science and Mathematics in the Turing Scholars Honors Program at UT Austin
 ### 💻 Feel free to contact me! andrew@mcalindens.net
 
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrewmcalinden&count_private=true&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrewmcalinden)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!--
+
 **andrewmcalinden/andrewmcalinden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
